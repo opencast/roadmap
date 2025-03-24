@@ -1,2 +1,3 @@
-# roadmap
-Repository for tracking Opencast roadmap issues
+# Roadmap
+
+We will have here some explanations about what will be happening here and how to follow the rules... 
