@@ -9,6 +9,8 @@ assignees: ''
 
 <!-- Delete/replace placeholder texts -->
 
+<!-- Projects for roadmap purposes only. Please do NOT post bug reports, issues, questions o feature request. For those purposes, use the corresponding repositories. Your project will receive the label "Project" and will automatically been added to the "Status" board of the «Opencast Roadmap» project (in column "New"). -->
+
 **Aim of Project**
 Which initial problems shall be tackled and solved? What are the suggested solutions? Short concept. If possible, use user stories to clarify what you want to achieve ("As a ... I want to ...")
 
