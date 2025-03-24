@@ -22,7 +22,7 @@ Involved stakeholder: List of all involved stakeholders.
 Specify as detailed as possible when you want to reach which goals.
 
 **Related Feature Requests and Issues**
-Specify the feature request, gug reports and issues related to this project. Note at least their title and link to the issue.
+Specify the feature request, bug reports or issues related to this project. Note at least their title and link to the issue.
 
 **Funding**
 Is funding still needed or already secured? List all possibly useful informations such as estimations or offers.
