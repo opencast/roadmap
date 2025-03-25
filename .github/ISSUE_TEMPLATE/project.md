@@ -1,6 +1,6 @@
 ---
 name: Project
-about: Sketch your planned or allready ongoing project to enhance transparancy to enable to join forces. 
+about: Sketch your planned or ongoing project to enhance transparancy and allow others to join where desired. 
 title: 'PROJECT: '
 labels: 
 assignees: ''
@@ -9,23 +9,26 @@ assignees: ''
 
 <!-- Delete/replace placeholder texts -->
 
-<!-- Projects for roadmap purposes only. Please do NOT post bug reports, issues, questions o feature request. For those purposes, use the corresponding repositories. Your project will receive the label "Project" and will automatically been added to the "Status" board of the «Opencast Roadmap» project (in column "New"). -->
+<!-- Projects for roadmap purposes only. Please do NOT post bug reports, issues, questions or feature request; for those, use the corresponding repositories. 
 
-**Aim of Project**
-Which initial problems shall be tackled and solved? What are the suggested solutions? Short concept. If possible, use user stories to clarify what you want to achieve ("As a ... I want to ...")
+Your project will have "PROJECT:" in the title automatically to increase clarity. -->
 
-**Involved Stakeholders (incl. project owner)**
-Project owner: Person (incl. organisation) responsible for presenting, pursuing and maintaining the project and this issue. Please note full name and Github user name.
-Involved stakeholder: List of all involved stakeholders.
+**1. Aim of Project**
+Which problems shall be tackled and solved? What are the suggested solutions? Short concept. If possible, use user stories ("As a ... I want to ...")
 
-**Timeline**
-Specify as detailed as possible when you want to reach which goals.
+**2. Please use the project fields to "label" your project.**
 
-**Related Feature Requests and Issues**
-Specify the feature request, bug reports or issues related to this project. Note at least their title and link to the issue.
+  **Funding**: Do you have funding already? Don't need any? Looking for funding?
 
-**Funding**
-Is funding still needed or already secured? List all possibly useful informations such as estimations or offers.
+  **Scope**: Ideas usually are XS or S, projects start with M.
 
-**Additional context**
-Add any other additional information or context to your project here.
+  **Area**: Which part of Opencast are you dealing with?
+
+  **Begin/End**: At least an indication of the timeline ...
+
+**3. Additional information**
+
+  **Additional Stakeholders** GitHub and real name, ideally.
+
+  **Related Feature Requests and Issues**
+
