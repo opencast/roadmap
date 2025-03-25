@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-<!-- Projects for roadmap purposes only. Please do not post bug reports, issues, questions or feature request. 
-
+<!-- 
+Projects for roadmap purposes only. Please do not post bug reports, issues, questions or feature request. 
 Your project will have "PROJECT:" in the title automatically to increase clarity. -->
 
 **1. Aim of Project**
@@ -21,6 +21,6 @@ Which problems shall be tackled and solved? Short concept. If possible, use user
 - **Begin/End**: At least an indication of the timeline ...
 
 **3. Additional information**
-  **Additional Stakeholders** GitHub and real name, ideally.
-  **Related Feature Requests and Issues**
+- **Additional Stakeholders** Use "Assignees"
+- **Related Feature Requests and Issues** Paste URL here.
 
