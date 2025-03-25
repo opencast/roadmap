@@ -1,8 +1,8 @@
 ---
 name: Project
-about: Sketch your project to enable collaboration and enhance transparancy
-title: ''
-labels: project
+about: Sketch your planned or allready ongoing project to enhance transparancy to enable to join forces. 
+title: 'PROJECT: '
+labels: 
 assignees: ''
 
 ---
