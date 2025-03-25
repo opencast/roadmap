@@ -1,7 +1,7 @@
 ---
 name: Idea
 about: Explain your idea to start a discussion or collaboration
-title: ''
+title: 'IDEA: ...'
 labels: idea
 assignees: ''
 
