@@ -7,8 +7,7 @@ assignees: ''
 
 ---
 
-<!-- 
-For roadmap purposes only. Please do not post bug reports, issues, questions or feature request. 
+<!-- For roadmap purposes only. Please do not post bug reports, issues, questions or feature request. 
 Your project will have "PROJECT:" in the title automatically to increase clarity. -->
 
 **1. Aim/description**
