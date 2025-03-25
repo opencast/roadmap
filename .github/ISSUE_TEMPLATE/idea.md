@@ -1,14 +1,13 @@
 ---
 name: Idea
-about: Explain your idea on how to improve Opencast to get feedback, start a discussion or collaboration. 
+about: Explain your idea on how to improve Opencast to get feedback, start a discussion or collaboration. Or just for showing off.
 title: 'IDEA: '
 labels: 
 assignees: ''
 
 ---
 
-<!-- 
-For roadmap purposes only. Please do not post bug reports, issues, questions or feature request. 
+<!-- For roadmap purposes only. Please do not post bug reports, issues, questions or feature request. 
 Your suggestions will have "IDEA:" in the title automatically to increase clarity. -->
 
 **1. Aim/description**
