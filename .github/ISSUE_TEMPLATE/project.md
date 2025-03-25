@@ -1,6 +1,6 @@
 ---
 name: Project
-about: Scetch your project to enable collaboration and enhance transparancy
+about: Sketch your project to enable collaboration and enhance transparancy
 title: ''
 labels: project
 assignees: ''
