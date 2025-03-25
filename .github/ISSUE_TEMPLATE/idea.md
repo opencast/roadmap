@@ -1,8 +1,8 @@
 ---
 name: Idea
-about: Explain your idea to start a discussion or collaboration
-title: 'IDEA: ...'
-labels: idea
+about: Explain your idea on how to improve Opencast to get feedback, start a discussion or collaboration.
+title: 'IDEA: '
+labels: 
 assignees: ''
 
 ---
