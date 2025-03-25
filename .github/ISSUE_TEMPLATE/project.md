@@ -7,9 +7,7 @@ assignees: ''
 
 ---
 
-<!-- Delete/replace placeholder texts -->
-
-<!-- Projects for roadmap purposes only. Please do NOT post bug reports, issues, questions or feature request; for those, use the corresponding repositories. 
+<!-- Projects for roadmap purposes only. Please do not post bug reports, issues, questions or feature request. 
 
 Your project will have "PROJECT:" in the title automatically to increase clarity. -->
 
@@ -17,10 +15,10 @@ Your project will have "PROJECT:" in the title automatically to increase clarity
 Which problems shall be tackled and solved? Short concept. If possible, use user stories ("As a ... I want to ...")
 
 **2. Please use the project fields to categorise your project.**
-  **Funding**: Do you have funding already? Don't need any? Or looking for funding?
-  **Scope**: Ideas usually are XS or S, projects start with M.
-  **Area**: Which part of Opencast are you dealing with?
-  **Begin/End**: At least an indication of the timeline ...
+- **Funding**: Do you have funding already? Don't need any? Or looking for funding?
+- **Scope**: Ideas usually are XS or S, projects start with M.
+- **Area**: Which part of Opencast are you dealing with?
+- **Begin/End**: At least an indication of the timeline ...
 
 **3. Additional information**
   **Additional Stakeholders** GitHub and real name, ideally.
