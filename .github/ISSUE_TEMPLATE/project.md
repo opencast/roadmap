@@ -11,11 +11,11 @@ assignees: ''
 Projects for roadmap purposes only. Please do not post bug reports, issues, questions or feature request. 
 Your project will have "PROJECT:" in the title automatically to increase clarity. -->
 
-**1. Aim of Project**
+**1. Aim/description**
 Which problems shall be tackled and solved? Short concept. If possible, use user stories ("As a ... I want to ...")
 
-**2. Please use the project fields to categorise your project.**
-- **Funding**: Do you have funding already? Don't need any? Or looking for funding?
+**2. Please use the project fields to the right to categorise your project:**
+- **Funding**: Do you have funding already? Don't need any? Or are you looking for (additional) funding?
 - **Scope**: Ideas usually are XS or S, projects start with M.
 - **Area**: Which part of Opencast are you dealing with?
 - **Begin/End**: At least an indication of the timeline ...
