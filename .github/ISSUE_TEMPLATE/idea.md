@@ -15,10 +15,11 @@ Which problems shall be tackled and solved? Short concept. If possible, use user
 
 **2. After the issue has been created, please use project fields to the right to categorise your idea:**
 - **Funding**: Do you have funding already? Don't need any? Or are you looking for (additional) funding?
-- **Scope**: Ideas usually are XS or S, projects start with M.
+- **Scope**: Ideas usually are S, projects start with M.
 - **Area**: Which part of Opencast are you dealing with?
 - **Begin/End**: At least an indication of the timeline ...
 
 **3. Additional information**
-- **Additional Stakeholders** Use "Assignees"
-- **Related Feature Requests and Issues** Paste URL here.
+- **Responsible Person**: Use "Assignees" and list the full name and organizational affilitation here.
+- **Additional Stakeholders**: Use "Assignees" and list full name and organizational affilitation here.
+- **Related Feature Requests and Issues**: Paste URL here. 
