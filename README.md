@@ -4,17 +4,17 @@ IMPORTANT: All you can read below is work in progress.
 
 ## Purpose
 
-The roadmap initiative (with its meeting, repository and project) is an initiative to improve transparency, coordination, and collaboration among all stakeholders of the Opencast community. 
+The roadmap initiative (with its meeting, repository and project) is an initiative to improve transparency, coordination, and collaboration among all stakeholders of the Opencast community. All parts and projects related to Opencast are welcome to participate, regardless of their topic and their size.
 
 ## General informations
-While the benefits are clear, achieving them requires active participation of stakeholders and structured processes. Therefore, please read the following informations carefully. The roadmap initiative follows a bottom-up approach, meaning it is open to everyone and relies on the active contributions of stakeholders to function effectively. Therefore, all parts of this initiative (meeting, github repository and project) are not ment to be for an exclusive group but rather an integrated effort within the broader community, ensuring collective ownership and shared responsibility. All projects related to Opencast are welcome to participate, regardless of their topic and their size. Both large-scale projects and small ideas can contribute meaningfully to the community.
+While the benefits are clear, achieving them requires a structured processes and active participation of stakeholders. Therefore, please read the following informations carefully. The roadmap initiative follows a bottom-up approach, meaning it is open to everyone and relies on the active contributions of stakeholders to function effectively. Therefore, all parts of this initiative (meeting, github repository and project) are not ment to be for an exclusive group but rather an integrated effort within the broader community, ensuring collective ownership and shared responsibility.  Both large-scale projects and small ideas can contribute meaningfully to the community.
 
 ## Roadmap meeting
 The roadmap meeting will take place four times a year (specific dates see below). In this meeting, we will discuss new ideas to improve Opencast and new as well as ongoing projects. To schedule an idea or project do be discussed in the next roadmap meeting, there needs to be an issue created in the "roadmap" repository (please follow specific rules below).
 
 
 ### Timing & Duration
-- Three regular meetings per year, plus an annual review meeting. Meeting dates will be coordinated with our three, already exsting major gatherings.
+- There are three regular meetings per year, plus an annual review meeting. Meeting dates will be coordinated with our three, already exsting major gatherings.
 - **Day of time**: Thursday, 15:00 (UTC)
 - **Timing**:
   - **February** (week before the international summit)
@@ -37,33 +37,10 @@ The roadmap meeting will take place four times a year (specific dates see below)
      
 - **Annual Review (in November):** The goal of the annual review meeting is to reflect on the projects and ideas of the past year and plan the upcoming year. In preparation to the meeting, the facilitators will close all issues 3 weeks before the meeting. If ideas or projects are still relevant, the owner(s) can reopen the corresponding issues.
 
-### Documentation & Project Management
-If you want to present and/or discuss your idea or project on a roadmap meeting, you first need to open an issue in the Github repository "roadmap". Use one of the corresponding issue templates (there is one for ideas and one for projects). Please give all informations that are indicated in the templates.
-
-### Templates for Ideas & Projects
-- **Ideas**:
-  - Aim of the idea (user stories: "As a … I want to …")
-  - Target group
-  - Related features/bugs/issues
-- **Projects**:
-  - Aim of the project (user stories: "As a … I want to …")
-  - Stakeholders
-  - Timeline
-  - Related features/bugs/issues
-  - Funding considerations
-
-
-### Rules
-- **Responsible persons**: Every ticket must have an assigned owner
-- **Exclusions**: No bug reports, small issues, general questions, or minor feature requests (these should be handled elsewhere)
+### Documentation
+If you want to present and/or discuss your idea or project on a roadmap meeting, you first need to open an issue in the Github repository "roadmap". Use one of the corresponding issue templates (there is one for ideas and one for projects). Please give all informations that are requested by the templates. During the meetings, the facilitator (or a person assigned by the facilitator) notes the decisions and next steps in a comment to this issue.
 
 ### Maintenance & Triage
-- **Inactive tickets**: Automatically closed after six months of inactivity
-- **Roles**:
-  - Facilitator, maintainer, and reminder: Olaf (volunteer)
-- **Triage process**:
-  - Companies and developers can comment on a ticket, tag the facilitator, and provide recommendations
-  - A team of stakeholders (including developers) will regularly discuss new issues
-
-
-We will have here some explanations about what will be happening here and how to follow the rules... 
+- Inactive issues will automatically get closed after six months of inactivity and moved to the coloumn "Abandoned". The assigned owner can reopen the issue and place it in the suitable coloumn.
+- Companies and developers are kindly asked to comment on a ticket and provide recommendations from a technical point of you.
+- A group of stakeholders (including developers) will regularly discuss new issues and projects. If you want to join this group, please contact the current facilitator (see above).
