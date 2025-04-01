@@ -1,12 +1,13 @@
-# Roadmap meeting
+# Roadmap initiative
 
 IMPORTANT: All you can read below is work in progress.
 
-## Purpose
+## Purpose & general informations
 
-The roadmap meeting (with its repository and project) is an initiative to improve transparency, coordination, and collaboration among all stakeholders of the Opencast community. While the benefits are clear, achieving them requires active participation and structured processes. This initiative follows a bottom-up approach, meaning it is open to everyone and relies on the active contributions of stakeholders to function effectively. The meeting is not ment to be for an exclusive group but rather an integrated effort within the broader community, ensuring collective ownership and shared responsibility. All projects related to Opencast are welcome to participate, regardless of their topic their size. Both large-scale projects and small ideas can contribute meaningfully to the community.
+The roadmap initiative (with its meeting, repository and project) is an initiative to improve transparency, coordination, and collaboration among all stakeholders of the Opencast community. 
 
-
+## General informations
+While the benefits are clear, achieving them requires active participation of stakeholders and structured processes. Therefore, please read the following informations carefully. The roadmap initiative follows a bottom-up approach, meaning it is open to everyone and relies on the active contributions of stakeholders to function effectively. Therefore, all parts of this initiative (meeting, github repository and project) are not ment to be for an exclusive group but rather an integrated effort within the broader community, ensuring collective ownership and shared responsibility. All projects related to Opencast are welcome to participate, regardless of their topic and their size. Both large-scale projects and small ideas can contribute meaningfully to the community.
 
 ## Roadmap meeting
 
@@ -15,8 +16,8 @@ The roadmap meeting will take place four times a year (specific dates see below)
 
 
 ### Timing & Duration
-- **Schedule**: Three regular meetings per year, plus an annual review meeting. Meeting dates will be coordinated with our three    major gatherings.
-- **Proposed times**: Thursday, 15:00 (UTC)
+- **Schedule**: Three regular meetings per year, plus an annual review meeting. Meeting dates will be coordinated with our three, already exsting major gatherings.
+- **Day of time**: Thursday, 15:00 (UTC)
 - **Timing**:
   - **February** (week before the international summit)
   - **April/May**
@@ -27,19 +28,21 @@ The roadmap meeting will take place four times a year (specific dates see below)
   - **September 11, 2025, 15:00 (UTC)** – Crowdfunding discussion
   - **November 28, 2025, 15:00 (UTC)** – Annual review
 - **Facilitation**
-  - **Role**: Coordinate, moderate, and communicate
+  - **Role**: The facilitators role is to coordinate, moderate, and communicate the roadmap meetings and all resulting decisions and informations. He/she can ask other stakeholders to support him/her in fullfilling those tasks.
   - **Current Facilitator**: Olaf Schulte, ETH Zürich (volunteer – thanks, Olaf!)
 
-## Agendas 
+### Types of meetings 
 - **Regular Meetings**
-  1. **Status Report** on all running projects (5-10 min)
+  It takes place three times a year. The agenda will be:
+  1. **Status Report** on running projects (5 min presentation + 5 min discussion)
   2. **New Ideas** (5 min presentation + 5 min discussion)
   3. **New Projects** (10 min presentation + 5 min discussion)
-- **Annual Review (Takes place in November)**
-  - **Purpose**: Reflect on the past year and plan for the next
-  - **Preparation**: All issues closed before the meeting; stakeholders can reopen relevant ones
+- **Annual Review (in November)**
+  - **Purpose**: Reflect on the projects and ideas of past year and plan for the next.
+  - **Preparation**: The facilitators closes all issues before the meeting. If ideas or projects are stille relevant, the owner(s) should reopen their issues
 
-## Documentation & Project Management
+### Documentation & Project Management
+Of you want to present and/or discuss your idea or project on a roadmap meeting, you first need to open an issue in the Github repository "roadmap". Use one of the 
 
 ### Templates for Ideas & Projects
 - **Ideas**:
