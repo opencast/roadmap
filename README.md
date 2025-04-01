@@ -8,6 +8,7 @@ The roadmap initiative (with its meeting, repository and project) is an initiati
 
 ## General informations
 While the benefits are clear, achieving them requires a structured processes and active participation of stakeholders. Therefore, please read the following informations carefully. The main component of this initiative are the roadmap meetings (four times a year) and the issues created in this repository (using the templates «Idea» and «Project»), which get organised using the Github project «Opencast Roadmap».
+
 The roadmap initiative follows a bottom-up approach, meaning it is open to everyone and relies on the active contributions of stakeholders to function effectively. Therefore, all parts of this initiative (meeting, github repository and project) are not ment to be for an exclusive group but rather an integrated effort within the broader community, ensuring collective ownership and shared responsibility.  Both large-scale projects and small ideas can contribute meaningfully to the community.
 
 ## Roadmap meeting
