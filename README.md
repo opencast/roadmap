@@ -1,6 +1,6 @@
 # Roadmap initiative
 
-**This is work in progress!**
+**2025: This is work in progress**
 
 ## Purpose
 The roadmap initiative (with its meeting, repository and project) is to improve transparency, coordination, and collaboration among all stakeholders of the Opencast community. All parts and projects related to Opencast are welcome to participate, regardless of their topic and their size - visibility is key!
@@ -26,6 +26,15 @@ During/after meetings, the facilitator (or a person assigned by the facilitator)
 - Companies and developers are kindly asked to comment on a ticket and provide recommendations from a technical point of you.
 - A group of stakeholders (including developers) will regularly discuss new issues and projects. If you want to join this group, please contact the facilitator(s) organising the meeting.
 
+-----------------------------
+
+### Types of meetings 
+- **Regular Meetings:** The reuglar meetings take place three times a year. The agenda will be:
+  1. Status report on running projects (5 min presentation + 5 min discussion)
+  2. New ideas (5 min presentation + 5 min discussion)
+  3. New projects (10 min presentation + 5 min discussion)
+     
+- **Annual Review (in November):** The goal of the annual review meeting is to reflect on the projects and ideas of the past year and plan the upcoming year. In preparation to the meeting, the facilitators will close all issues 3 weeks before the meeting. If ideas or projects are still relevant, the owner(s) can reopen the corresponding issues.
 ### Roadmap meeting: Timing & Duration 2025
 - There are three regular meetings per year, plus an annual review meeting. Meeting dates will be coordinated with our three, already exsting major gatherings.
 - **Day of time**: Thursday, 15:00 (UTC)
@@ -42,10 +51,4 @@ During/after meetings, the facilitator (or a person assigned by the facilitator)
   - The facilitators role is to coordinate, moderate, and communicate the roadmap meetings and all resulting decisions and informations. He/she can ask other stakeholders to support him/her in fullfilling those tasks.
   - **Current Facilitator**: Olaf Schulte, ETH Zürich (volunteer – thanks, Olaf!)
 
-### Types of meetings 
-- **Regular Meetings:** The reuglar meetings take place three times a year. The agenda will be:
-  1. Status report on running projects (5 min presentation + 5 min discussion)
-  2. New ideas (5 min presentation + 5 min discussion)
-  3. New projects (10 min presentation + 5 min discussion)
-     
-- **Annual Review (in November):** The goal of the annual review meeting is to reflect on the projects and ideas of the past year and plan the upcoming year. In preparation to the meeting, the facilitators will close all issues 3 weeks before the meeting. If ideas or projects are still relevant, the owner(s) can reopen the corresponding issues.
+
