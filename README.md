@@ -7,17 +7,19 @@ The roadmap initiative (with its meeting, repository and project) is to improve 
 
 ## General information
 The main component of this initiative are 
-- the roadmap meetings (four times a year) and
-- the issues created in this repository (using the templates «Idea» and «Project»), which is based on the Github project «Opencast Roadmap».
+- the roadmap meetings,
+- the issues created in this repository (using the templates «Idea» and «Project») and
+- the Github project «Opencast Roadmap» (to organise the issues and meetings).
 
 ## Roadmap meeting
 The roadmap meeting will take place four times a year (specific dates see below). In this meeting, we will discuss new ideas to improve Opencast and new as well as ongoing projects. Ideas and projects will be presented by the project/idea owner and discussed with all participants present.
 
-### Issues: Schedule a presentation/discussion
+### Creating an issue Schedule a presentation/discussion
 If you want to present and/or discuss your idea or project in a roadmap meeting, you need to have an issue in the Github repository "roadmap". To create a new issue, use one of the corresponding issue templates and provide all required information:
 - **ideas**: for smaller initiatives, one-person initiatives or short-term cooperation;
 - **projects**: for (institutional) cooperations, mid- to long-term with different stakeholders.
 
+### Schedule a presentation/discussion
 In the meeting, all issues from the columns "New" and "Presentation" will be discussed. If you create a new issue, it will automatically show up in the column "New". If you are owner of an ongoing project and you want to discuss your project in the next meeting, move it to the column "Presentation".
 
 During/after meetings, the facilitator (or a person assigned by the facilitator) notes the decisions and next steps in a comment to this issue.
