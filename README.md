@@ -16,7 +16,7 @@ The roadmap meeting will take place four times a year (specific dates see below)
 
 ### Creating an issue
 If you want to present and/or discuss your idea or project in a roadmap meeting, you need to have an issue in the Github repository "roadmap". To create a new issue, use one of the corresponding issue templates and provide all required information:
-- **ideas**: for smaller initiatives, one-person initiatives or short-term cooperation;
+- **ideas**: for ideas, smaller initiatives or short-term cooperation, usally no funding and no timeline yet;
 - **projects**: for (institutional) cooperations, mid- to long-term with different stakeholders.
 
 ### Schedule a presentation/discussion
