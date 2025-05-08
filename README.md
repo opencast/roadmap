@@ -13,14 +13,12 @@ The main component of this initiative are
 ## Roadmap meeting
 The roadmap meeting will take place four times a year (specific dates see below). In this meeting, we will discuss new ideas to improve Opencast and new as well as ongoing projects. Ideas and projects will be presented by the project/idea owner and discussed with all participants present.
 
+### Issues: Schedule a presentation/discussion
+If you want to present and/or discuss your idea or project in a roadmap meeting, you need to have an issue in the Github repository "roadmap". To create a new issue, use one of the corresponding issue templates and provide all required information:
+- **ideas**: for smaller initiatives, one-person initiatives or short-term cooperation;
+- **projects**: for (institutional) cooperations, mid- to long-term with different stakeholders.
 
-### Documentation / Github
-If you want to present and/or discuss your idea or project in a roadmap meeting, you need to shortly open an issue in the Github repository "roadmap". Use one of the corresponding issue templates and provide all required informationd:
-- **ideas** is for smaller initiatives, one-person initiatives or short-term cooperation;
-- **projects** is for (institutional) cooperations, mid- to long-term with different stakeholders.
-Please provide  all informations requested by the templates.
-
-In the meeting, all issues from the columns "New" and "Presentation" will be discussed. If you create a new issue, it will automatically show up in the column "New". If you are owner of an ongoing project and you want to dicuss your project in the next meeting, move it to the column "Presentation".
+In the meeting, all issues from the columns "New" and "Presentation" will be discussed. If you create a new issue, it will automatically show up in the column "New". If you are owner of an ongoing project and you want to discuss your project in the next meeting, move it to the column "Presentation".
 
 During/after meetings, the facilitator (or a person assigned by the facilitator) notes the decisions and next steps in a comment to this issue.
 
