@@ -49,7 +49,7 @@ During/after meetings, the facilitator (or a person assigned by the facilitator)
 - **2025 Schedule**:
   - May 8, 2025, 15:00 (UTC) – Kick-off meeting
   - September 11, 2025, 15:00 (UTC) – Crowdfunding discussion
-  - November 28, 2025, 15:00 (UTC) – Annual review
+  - November 27, 2025, 15:00 (UTC) – Annual review
 - **Facilitation**
   - The facilitators role is to coordinate, moderate, and communicate the roadmap meetings and all resulting decisions and informations. He/she can ask other stakeholders to support him/her in fullfilling those tasks.
   - **Current Facilitator**: Olaf Schulte, ETH Zürich (volunteer – thanks, Olaf!)
