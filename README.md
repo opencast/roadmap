@@ -38,7 +38,7 @@ During/after meetings, the facilitator (or a person assigned by the facilitator)
   3. New projects (10 min presentation + 5 min discussion)
      
 - **Annual Review (in November):** The goal of the annual review meeting is to reflect on the projects and ideas of the past year and plan the upcoming year. In preparation to the meeting, the facilitators will close all issues 3 weeks before the meeting. If ideas or projects are still relevant, the owner(s) can reopen the corresponding issues.
-### Roadmap meeting: Timing & Duration 2025
+### Roadmap meeting: Timing & Duration 2026
 - Meeting dates will be coordinated with our three, already exsting major gatherings.
 - **Day of time**: Thursday, 15:00 (UTC)
 - **Timing**:
@@ -46,10 +46,11 @@ During/after meetings, the facilitator (or a person assigned by the facilitator)
   - April/May
   - September (before the DACH meeting)
   - November (during the Opencast Virtual Summit)
-- **2025 Schedule**:
-  - May 8, 2025, 15:00 (UTC) – Kick-off meeting
-  - September 11, 2025, 15:00 (UTC) – Crowdfunding discussion
-  - November 27, 2025, 15:00 (UTC) – Annual review
+- **2026 Schedule**:
+  - February 25-27, 2026 (During the Opencast summit, probably on-site only)
+  - May 7, 2026, 15:00 (UTC)
+  - September 17, 2026, 15:00 (UTC) – Crowdfunding discussion
+  - November 26, 2026, 15:00 (UTC) – Annual review
 - **Facilitation**
   - The facilitators role is to coordinate, moderate, and communicate the roadmap meetings and all resulting decisions and informations. He/she can ask other stakeholders to support him/her in fullfilling those tasks.
   - **Current Facilitator**: Olaf Schulte, ETH Zürich (volunteer – thanks, Olaf!)
