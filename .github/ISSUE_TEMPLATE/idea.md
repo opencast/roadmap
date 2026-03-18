@@ -18,6 +18,7 @@ Which problems shall be tackled and solved? Short concept. If possible, use user
 - **Scope**: Ideas usually are S, projects start with M.
 - **Area**: Which part of Opencast are you dealing with?
 - **Begin/End**: At least an indication of the timeline ...
+- **Opencast Release**: Indicate (if possible), in which Opencast release this feature/idea could/should be available?
 
 **3. Additional information**
 - **Responsible Person**: Use "Assignees" and list the full name and organizational affilitation here.
